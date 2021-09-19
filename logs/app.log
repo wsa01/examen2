@@ -1,0 +1,45 @@
+2021-09-18 19:01:06 INFO  Starting Practica2Application using Java 1.8.0_302 on DESKTOP-B6Q1U9L with PID 12228 (C:\Users\wilder\Desktop\practica 2\practica2\build\classes\java\main started by wilder in C:\Users\wilder\Desktop\practica 2\practica2)
+2021-09-18 19:01:06 INFO  No active profile set, falling back to default profiles: default
+2021-09-18 19:01:21 INFO  Started Practica2Application in 16.078 seconds (JVM running for 19.067)
+2021-09-18 19:01:38 WARN  Se entro a listar productos
+2021-09-18 19:01:47 WARN  Se entro a listar productos
+2021-09-18 19:01:55 WARN  Se entro a listar productos
+2021-09-18 19:02:04 WARN  Se entro a listar productos
+2021-09-18 19:02:10 WARN  Se entro a listar productos
+2021-09-18 19:07:49 INFO  Starting Practica2Application using Java 1.8.0_302 on DESKTOP-B6Q1U9L with PID 10976 (C:\Users\wilder\Desktop\practica 2\practica2\build\classes\java\main started by wilder in C:\Users\wilder\Desktop\practica 2\practica2)
+2021-09-18 19:07:49 INFO  No active profile set, falling back to default profiles: default
+2021-09-18 19:08:06 INFO  Started Practica2Application in 18.469 seconds (JVM running for 23.431)
+2021-09-18 19:12:04 INFO  Starting Practica2Application using Java 1.8.0_302 on DESKTOP-B6Q1U9L with PID 11284 (C:\Users\wilder\Desktop\practica 2\practica2\build\classes\java\main started by wilder in C:\Users\wilder\Desktop\practica 2\practica2)
+2021-09-18 19:12:04 INFO  No active profile set, falling back to default profiles: default
+2021-09-18 19:12:19 INFO  Started Practica2Application in 15.94 seconds (JVM running for 18.891)
+2021-09-18 19:13:11 ERROR error de datos invalido
+2021-09-18 19:13:21 ERROR error de datos invalido
+2021-09-18 19:13:26 INFO  Se agrego al usuario :ggg
+2021-09-18 19:15:14 INFO  Starting Practica2Application using Java 1.8.0_302 on DESKTOP-B6Q1U9L with PID 8696 (C:\Users\wilder\Desktop\practica 2\practica2\build\classes\java\main started by wilder in C:\Users\wilder\Desktop\practica 2\practica2)
+2021-09-18 19:15:14 INFO  No active profile set, falling back to default profiles: default
+2021-09-18 19:15:29 INFO  Started Practica2Application in 16.066 seconds (JVM running for 19.278)
+2021-09-18 19:15:33 INFO  Se listo listar usuarios
+2021-09-18 19:15:38 ERROR error de datos invalido
+2021-09-18 19:15:50 ERROR error de datos invalido
+2021-09-18 19:16:30 INFO  Se agrego al usuario :ggg
+2021-09-18 19:16:34 INFO  Se listo listar usuarios
+2021-09-18 19:17:09 INFO  Se edito un usuario
+2021-09-18 19:17:13 INFO  Se listo listar usuarios
+2021-09-18 19:17:32 INFO  Se elimino un usuario
+2021-09-18 19:17:37 INFO  Se listo listar usuarios
+2021-09-18 19:17:49 ERROR error de datos invalido
+2021-09-18 19:17:54 ERROR error de datos invalido
+2021-09-18 19:18:00 ERROR error de datos invalido
+2021-09-18 19:18:40 ERROR error de datos invalido
+2021-09-18 19:27:24 INFO  Starting Practica2Application using Java 1.8.0_302 on DESKTOP-B6Q1U9L with PID 2740 (C:\Users\wilder\Desktop\practica 2\practica2\build\classes\java\main started by wilder in C:\Users\wilder\Desktop\practica 2\practica2)
+2021-09-18 19:27:24 INFO  No active profile set, falling back to default profiles: default
+2021-09-18 19:27:41 INFO  Started Practica2Application in 17.623 seconds (JVM running for 20.209)
+2021-09-18 19:27:48 INFO  Se listo usuarios
+2021-09-18 19:28:10 ERROR error de datos invalido
+2021-09-18 19:28:30 INFO  Se agrego al usuario :juan
+2021-09-18 19:28:34 INFO  Se listo usuarios
+2021-09-18 19:28:44 ERROR error de datos invalido
+2021-09-18 19:29:13 INFO  Se edito un usuario
+2021-09-18 19:29:19 INFO  Se listo usuarios
+2021-09-18 19:29:40 INFO  Se elimino un usuario
+2021-09-18 19:29:44 INFO  Se listo usuarios
