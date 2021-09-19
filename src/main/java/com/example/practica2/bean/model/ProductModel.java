@@ -10,7 +10,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @Getter
 @Setter
-@Table(name = "product")
+@Table(name = "tbl_product")
 public class ProductModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
